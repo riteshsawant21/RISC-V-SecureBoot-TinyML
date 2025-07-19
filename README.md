@@ -256,7 +256,8 @@ logs/ota_update.log: Update process trace
 
 RESULTS:- 
 1. Stage : Bootloader Verfication 
-(output_screenshots/bootloader stage verifying.png)
+![Stage : Bootloader Verfication ](output_screenshots/bootloader stage verifying.PNG.png)
+
 📄 License
 This project is licensed under the MIT License — a permissive open-source license that allows reuse, modification, distribution, and private use, with proper attribution.
 MIT License
