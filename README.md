@@ -1,7 +1,3 @@
-## 🔍 Stage 1 Output
-
-![Stage 1](https://raw.githubusercontent.com/riteshsawant21/RISC-V-SecureBoot-TinyML/main/stage1.PNG)
-
 # RISC-V-SecureBoot-TinyML
 This project simulates secure boot and encrypted storage on RISC-V to safely run TinyML models in low-power embedded systems. It showcases secure AI deployment (e.g., anomaly detection) using open-source cores, fully in simulation—ideal for research, prototyping, and industry testing.
 # SecureTinyML-RISCV 🔐🤖
@@ -260,7 +256,19 @@ logs/ota_update.log: Update process trace
 
 RESULTS:- 
 
-![Stage 1](https://github.com/riteshsawant21/RISC-V-SecureBoot-TinyML/blob/main/stage1.PNG?raw=true)
+## 🔍 Stage 1 Output
+
+![Stage 1](https://raw.githubusercontent.com/riteshsawant21/RISC-V-SecureBoot-TinyML/main/stage1.PNG)
+## 🔍 Stage 2 Output
+![Stage 2](https://raw.githubusercontent.com/riteshsawant21/RISC-V-SecureBoot-TinyML/main/stage2.PNG)
+## 🔍 Stage 3 Output
+![Stage 3](https://raw.githubusercontent.com/riteshsawant21/RISC-V-SecureBoot-TinyML/main/stage3.PNG)
+## 🔍 Stage 4 Output
+![Stage 4](https://raw.githubusercontent.com/riteshsawant21/RISC-V-SecureBoot-TinyML/main/stage4.PNG)
+## 🔍 Stage 5 Output
+![Stage 5](https://raw.githubusercontent.com/riteshsawant21/RISC-V-SecureBoot-TinyML/main/stage5.PNG)
+
+
 
 
 📄 License
