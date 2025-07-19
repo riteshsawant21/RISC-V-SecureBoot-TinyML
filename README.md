@@ -257,7 +257,7 @@ logs/ota_update.log: Update process trace
 RESULTS:- 
 ### 1️⃣ Stage: Bootloader Verification
 
-![Bootloader Verification](output_screenshots/bootloader_stage_verifying.PNG)
+![Bootloader Verification](output_screnshots/bootloader stage verifying.PNG)
 
 
 📄 License
