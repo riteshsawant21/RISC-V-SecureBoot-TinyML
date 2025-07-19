@@ -256,7 +256,7 @@ logs/ota_update.log: Update process trace
 
 RESULTS:- 
 ### 1️⃣ Stage: Bootloader Verification
-![Bootloader Verification](https://github.com/riteshsawant21/RISC-V-SecureBoot-TinyML/blob/main/output_screenshots/stage1.PNG?raw=true)
+![Bootloader Verification](https://github.com/riteshsawant21/RISC-V-SecureBoot-TinyML/blob/main/stage1.PNG?raw=true)
 
 📄 License
 This project is licensed under the MIT License — a permissive open-source license that allows reuse, modification, distribution, and private use, with proper attribution.
