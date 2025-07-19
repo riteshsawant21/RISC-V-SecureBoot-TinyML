@@ -255,8 +255,10 @@ logs/inference_results.log: Prediction outcomes
 logs/ota_update.log: Update process trace
 
 RESULTS:- 
-1. Stage : Bootloader Verfication 
-![Stage : Bootloader Verfication ](output_screenshots/bootloader stage verifying.PNG.png)
+### 1️⃣ Stage: Bootloader Verification
+
+![Bootloader Verification](output_screenshots/bootloader_stage_verifying.PNG)
+
 
 📄 License
 This project is licensed under the MIT License — a permissive open-source license that allows reuse, modification, distribution, and private use, with proper attribution.
