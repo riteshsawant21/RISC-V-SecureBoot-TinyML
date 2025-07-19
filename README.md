@@ -256,7 +256,6 @@ logs/ota_update.log: Update process trace
 
 RESULTS:- 
 
-## 🔍 Stage 1 Output
 
 ![Stage 1](https://raw.githubusercontent.com/riteshsawant21/RISC-V-SecureBoot-TinyML/main/stage1.PNG)
 ## 🔍 Stage 2 Output
