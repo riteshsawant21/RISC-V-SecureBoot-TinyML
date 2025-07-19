@@ -3,9 +3,6 @@ This project simulates secure boot and encrypted storage on RISC-V to safely run
 # SecureTinyML-RISCV 🔐🤖
 **Simulated Secure Boot + Encrypted TinyML Model Execution on RISC-V**
 
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/build-simulation-blue)
-![Platform](https://img.shields.io/badge/platform-RISC--V-lightgrey)
 
 ## 🧠 Overview
 
